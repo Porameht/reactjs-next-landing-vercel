@@ -1,0 +1,38 @@
+{
+  "title": "Our Features",
+  "subtitle": "Our strong selling points are shown below.",
+  "features": [
+    {
+      "subtitle": "Collaborate",
+      "title": "Collaborate and share work with ease",
+      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+      "points": ["Team Members", "Sync", "Realtime"],
+      "image": "https://source.unsplash.com/collection/404339/800x600",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "Get started now"
+    },
+    {
+      "title": "Build Faster",
+      "subtitle": "Category",
+      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+      "points": ["point 1", "point 2", "point 3"],
+
+      "image": "https://source.unsplash.com/collection/404339/800x600",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "Get started now"
+    },
+    {
+      "title": "Save Time & Money",
+      "subtitle": "Category",
+      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+      "points": ["point 1", "point 2", "point 3"],
+
+      "image": "https://source.unsplash.com/collection/404339/800x600",
+      "color": "#212121",
+      "href": "/signup",
+      "ctaText": "Get started now"
+    }
+  ]
+}
