@@ -1,7 +1,7 @@
 {
   "logo": "/static/logo-light.svg",
-  "tagline": "Best React.js SaaS template",
-  "cta": { "href": "/", "text": "Get Odin Template" },
+  "tagline": "NIGOAL939 - Casino Online Plus",
+  "cta": { "href": "/", "text": "สมัครสมาชิก" },
   "social": [
     {
       "platform": "twitter",
@@ -17,7 +17,7 @@
     }
   ],
   "madeBy": {
-    "text": "Jim Raptis",
+    "text": "NIGOAL939",
     "href": "https://www.twitter.com/d__raptis"
   },
   "columns": [

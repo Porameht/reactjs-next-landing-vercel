@@ -29,7 +29,7 @@ const Header = ({ logoLight, logoDark, links, ...rest }) => {
       color={["white", "white", "primary.900", "primary.900"]}
       {...rest}
     >
-      <Image src={isDesktop ? logoDark : logoLight} w="54px" alt="Logo" />
+      <Image src={isDesktop ? logoDark : logoLight} w="150px" alt="Logo" />
 
       <Box display={{ base: "block", md: "none" }} onClick={toggleMenu}>
         {show ? <HiX size={28} /> : <HiMenu size={28} />}
