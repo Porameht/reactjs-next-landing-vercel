@@ -1,18 +1,8 @@
-# Odin Landing Page Template
-
 A React.js SaaS Landing Page template using Next.js & Chakra.js
-
-🔥**[LIVE PREVIEW](https://odin-gilt.vercel.app/)**🔥
 
 ## Getting Started
 
-1. Pull the Github repository locally ([send me a message](mailto:dimitrisraptis96@gmail.com) to give you access):
-
-```bash
-git clone https://github.com/dimitrisraptis96/odin-template.git
-# or
-git clone git@github.com:dimitrisraptis96/odin-template.git
-```
+1. Pull the Github repository locally:
 
 2. Install dependencies:
 
